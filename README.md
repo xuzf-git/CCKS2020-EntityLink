@@ -43,7 +43,7 @@ entity-reference.
 
 ## 2、代码说明
 
-***[data_process.py](/data_process.py)***
+***[data_process.py](/src/data_process.py)***
 
 * `DataEncoder`：用于将文本训练数据进行编码，将文本序列分词、规范化、编码，对标签进行编码
 
@@ -61,13 +61,13 @@ entity-reference.
   >  * 针对测试和验证数据，不使用pairwise，从候选实体集中给该提及 (mention) 一个候选实体，输入模型打分。
   
 
-***[model.py](/model.py)***
+***[model.py](/src/model.py)***
 
 包含 `Model` 类，即实现候选实体排序、实体类型预测的多任务模型
 
 
 
-***[utils.py](/utils.py)***
+***[utils.py](/src/utils.py)***
 
 * `param`： 包含参数字典 ；
 * `type2label`： 类型到标签的映射字典 ；
