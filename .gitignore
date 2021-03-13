@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+data/basic_data/*
+data/pretrain_data/*
+data/generated/*
+weights/ckpt*

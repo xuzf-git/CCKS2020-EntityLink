@@ -1,0 +1,278 @@
+[
+    {
+        "text_id": "1",
+        "text": "林平之答应岳灵珊报仇之事，从长计议，师娘想令狐冲了",
+        "mention_data": [
+            {
+                "mention": "林平之",
+                "offset": "0"
+            },
+            {
+                "mention": "岳灵珊",
+                "offset": "5"
+            },
+            {
+                "mention": "师娘",
+                "offset": "18"
+            },
+            {
+                "mention": "令狐冲",
+                "offset": "21"
+            }
+        ]
+    },
+    {
+        "text_id": "2",
+        "text": "思追原来是个超级妹控，不愿妹妹嫁人，然而妹妹却喜欢一博老师",
+        "mention_data": [
+            {
+                "mention": "思追",
+                "offset": "0",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "妹控",
+                "offset": "8",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "妹妹",
+                "offset": "13",
+                "pre_id": "269962",
+                "pre_type": 0
+            },
+            {
+                "mention": "妹妹",
+                "offset": "20",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "一博",
+                "offset": "25"
+            },
+            {
+                "mention": "老师",
+                "offset": "27"
+            }
+        ]
+    },
+    {
+        "text_id": "3",
+        "text": "铁核桃：贺韬鬼迷心窍，竟替日本特务卖命，网友：看不下去了",
+        "mention_data": [
+            {
+                "mention": "铁核桃",
+                "offset": "0",
+                "pre_id": "46770",
+                "pre_type": 0
+            },
+            {
+                "mention": "贺韬",
+                "offset": "4",
+                "pre_id": "268669",
+                "pre_type": 0
+            },
+            {
+                "mention": "日本",
+                "offset": "13",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "特务",
+                "offset": "15",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "网友",
+                "offset": "20",
+                "pre_id": "NIL",
+                "pre_type": 0
+            }
+        ]
+    },
+    {
+        "text_id": "4",
+        "text": "经典动漫：我想笑容一定很适合你",
+        "mention_data": [
+            {
+                "mention": "动漫",
+                "offset": "2",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "笑容",
+                "offset": "7",
+                "pre_id": "74029",
+                "pre_type": 0
+            }
+        ]
+    },
+    {
+        "text_id": "5",
+        "text": "外来媳妇本地郎：阿宗给八哥滴血认亲，为了不被恨竟扮成女人！",
+        "mention_data": [
+            {
+                "mention": "外来媳妇本地郎",
+                "offset": "0",
+                "pre_id": "193656",
+                "pre_type": 0
+            },
+            {
+                "mention": "阿宗",
+                "offset": "8",
+                "pre_id": "187931",
+                "pre_type": 0
+            },
+            {
+                "mention": "八哥",
+                "offset": "11"
+            },
+            {
+                "mention": "滴血认亲",
+                "offset": "13"
+            },
+            {
+                "mention": "女人",
+                "offset": "26"
+            }
+        ]
+    },
+    {
+        "text_id": "6",
+        "text": "儿子祝融被杀害，西天王大发雷霆，立即下令捉拿天庭三公主",
+        "mention_data": [
+            {
+                "mention": "儿子",
+                "offset": "0",
+                "pre_id": "65961",
+                "pre_type": 0
+            },
+            {
+                "mention": "祝融",
+                "offset": "2",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "西天王",
+                "offset": "8",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "天庭三公主",
+                "offset": "22",
+                "pre_id": "59329",
+                "pre_type": 0
+            }
+        ]
+    },
+    {
+        "text_id": "7",
+        "text": "巨神战击队：仇恨怪先发动攻击，一打二你也很嚣张！",
+        "mention_data": [
+            {
+                "mention": "巨神战击队",
+                "offset": "0",
+                "pre_id": "69305",
+                "pre_type": 0
+            },
+            {
+                "mention": "仇恨怪",
+                "offset": "6",
+                "pre_id": "94181",
+                "pre_type": 0
+            },
+            {
+                "mention": "嚣张",
+                "offset": "21"
+            }
+        ]
+    },
+    {
+        "text_id": "8",
+        "text": "俩孩子青梅竹马两小无猜，父亲为拆散两人，竟狠下心来这样做",
+        "mention_data": [
+            {
+                "mention": "孩子",
+                "offset": "1",
+                "pre_id": "128807",
+                "pre_type": 0
+            },
+            {
+                "mention": "父亲",
+                "offset": "12"
+            },
+            {
+                "mention": "人",
+                "offset": "18",
+                "pre_id": "NIL",
+                "pre_type": 0
+            }
+        ]
+    },
+    {
+        "text_id": "9",
+        "text": "海胆肆无忌惮，吓到了蟹老板，章鱼哥和海绵宝宝！",
+        "mention_data": [
+            {
+                "mention": "海胆",
+                "offset": "0",
+                "pre_id": "198811",
+                "pre_type": 0
+            },
+            {
+                "mention": "蟹老板",
+                "offset": "10",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "章鱼哥",
+                "offset": "14",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "海绵宝宝",
+                "offset": "18"
+            }
+        ]
+    },
+    {
+        "text_id": "10",
+        "text": "太贱了，宝哥pk李永利用语音说话分散注意，永哥：你不要干扰我",
+        "mention_data": [
+            {
+                "mention": "宝哥",
+                "offset": "4",
+                "pre_id": "NIL",
+                "pre_type": 0
+            },
+            {
+                "mention": "李永",
+                "offset": "8",
+                "pre_id": "63187",
+                "pre_type": 0
+            },
+            {
+                "mention": "语音",
+                "offset": "12",
+                "pre_id": "23558",
+                "pre_type": 0
+            },
+            {
+                "mention": "永哥",
+                "offset": "21",
+                "pre_id": "53071",
+                "pre_type": 0
+            }
+        ]
+    }
+]
