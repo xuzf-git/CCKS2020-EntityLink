@@ -3,45 +3,59 @@
 ## 1、文件结构树
 
 ```shell
-entity-reference.
-│   data_process.py
-│   example.ipynb
-│   main.py
-│   model.py
-│   README.md
-│   requirements.txt
-│   temp.json
-│   train.py
-│   utils.py
-├───data
-│   ├───basic_data
-│   │       dev_example.json
-│   │       kb_example.json
-│   │       predict.json
-│   │       predict_result.json
-│   │       test_example.json
-│   │       train_example.json
-│   │
-│   ├───generated
-│   │       cand.json
-│   │       entity.json
-│   │       mention.txt
-│   │       predict.csv
-│   │       predict_data.txt
-│   │       test_example.csv
-│   │       test_example_data.txt
-│   │
-│   └───pretrain_data
-│           matrix.npy
-│           vocab.json
+.
+│  .gitignore
+│  demo.ipynb
+│  LICENSE
+│  main.py
+│  README.md
+│  report.ipynb
+│  requirements.txt
 │
-└───weight
-        ckpt_best_2.pth
+├─data
+│  │  eval.py
+│  │
+│  ├─basic_data
+│  │      CCKS 2020 Entity Linking License.docx
+│  │      dev.json
+│  │      kb.json
+│  │      README
+│  │
+│  ├─generated
+│  │
+│  └─pretrain_data
+│          matrix.npy
+│          vocab.json
+│          word2vec.iter5
+│
+├─img
+│      model.png
+│      word2vec.png
+│
+├─results
+│      result_test_example.json
+│
+├─src
+│      data_process.py
+│      model.py
+│      train.py
+│      utils.py
+│      __init__.py
+│
+└─weights
+      ckpt_best_0.pth
+      ckpt_best_1.pth
+      ckpt_best_2.pth
+      placeholder.txt
 ```
 
 
 
 ## 2、代码说明
+
+***[report.ipynb](/report.ipynb)***
+
+包含模型的详细描述、数据结构、中间数据，以及数据处理的完整过程。
 
 ***[data_process.py](/src/data_process.py)***
 
